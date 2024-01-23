@@ -4,7 +4,6 @@ import RootLayout from "./pages/RootLayout";
 import Mercury from "./pages/Mercury";
 import Venus from "./pages/Venus";
 import Earth from "./pages/Earth";
-import Mars from "./pages/mars";
 import Jupiter from "./pages/Jupeter";
 import Saturn from "./pages/Saturan";
 import Uranus from "./pages/Uranus";
