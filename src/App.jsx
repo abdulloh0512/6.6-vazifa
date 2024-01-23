@@ -21,7 +21,7 @@ const router = createBrowserRouter([
       { path: "Mercury", element: <Mercury /> },
       { path: "Venus", element: <Venus /> },
       { path: "Earth", element: <Earth /> },
-      { path: "Mars", element: <Mars /> },
+      { path: "Marsi", element: <Mars /> },
       { path: "Jupiter", element: <Jupiter /> },
       { path: "Saturn", element: <Saturn /> },
       { path: "Uranus", element: <Uranus /> },

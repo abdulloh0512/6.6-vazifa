@@ -9,7 +9,7 @@ import "../index.css";
 
 import PlanetData from "../data.json";
 
-const Mars = () => {
+const Marsi = () => {
   const [overview, setOverView] = useState(true);
   const [structure, setStructure] = useState(false);
   const [surface, setSurface] = useState(false);
@@ -158,4 +158,4 @@ const Mars = () => {
   );
 };
 
-export default Mars;
+export default Marsi;
