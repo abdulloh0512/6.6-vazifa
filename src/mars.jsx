@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 
-import Planet from "../Assets/planet-mars.svg";
-import Internal from "../Assets/planet-mars-internal.svg";
-import Geology from "../Assets/geology-mars.png";
-import IconSource from "../Assets/icon-source.svg";
+import Planet from "./Assets/planet-mars.svg";
+import Internal from "./Assets/planet-mars-internal.svg";
+import Geology from "./Assets/geology-mars.png";
+import IconSource from "./Assets/icon-source.svg";
 
-import "../index.css";
+import "./index.css";
 
 import PlanetData from "./data.json";
 
