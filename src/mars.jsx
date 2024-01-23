@@ -7,7 +7,7 @@ import IconSource from "../Assets/icon-source.svg";
 
 import "../index.css";
 
-import PlanetData from "../data.json";
+import PlanetData from "./data.json";
 
 const Mars = () => {
   const [overview, setOverView] = useState(true);
