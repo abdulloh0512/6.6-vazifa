@@ -10,7 +10,7 @@ import Uranus from "./pages/Uranus";
 import Neptune from "./pages/Neptune";
 
 import "./App.css";
-import Marsi from "./pages/mars";
+import Mars from "./pages/mars";
 
 const router = createBrowserRouter([
   {
@@ -21,7 +21,7 @@ const router = createBrowserRouter([
       { path: "Mercury", element: <Mercury /> },
       { path: "Venus", element: <Venus /> },
       { path: "Earth", element: <Earth /> },
-      { path: "Marsi", element: <Marsi /> },
+      { path: "Mars", element: <Mars /> },
       { path: "Jupiter", element: <Jupiter /> },
       { path: "Saturn", element: <Saturn /> },
       { path: "Uranus", element: <Uranus /> },
