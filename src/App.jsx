@@ -10,7 +10,6 @@ import Uranus from "./pages/Uranus";
 import Neptune from "./pages/Neptune";
 
 import "./App.css";
-import Mars from "./mars";
 
 const router = createBrowserRouter([
   {
